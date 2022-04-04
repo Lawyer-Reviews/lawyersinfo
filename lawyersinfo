@@ -1,0 +1,10 @@
+src/Containers/Integrations/Form/Form.js has featureFlags in mapStateToProps
+src/Containers/Integrations/Form/index.ts
+ui/apps/platform/src/Containers/Integrations/Form/Schedule.js
+except for import { times, daysOfWeek } from '../Form/Schedule'; in src/Containers/Integrations/utils/tableColumnDescriptor.js
+see times in src/Containers/Integrations/IntegrationForm/FormSchedule/ScheduleDailyOptions.tsx
+see daysOfWeek in src/Containers/Integrations/IntegrationForm/FormSchedule/ScheduleWeeklyOptions.tsx
+src/Containers/Integrations/IntegrationModal.js
+src/Containers/Integrations/utils/formDescriptors.js
+src/Containers/Integrations/utils/integrationFormUtils.js
+src/Containers/Integrations/utils/integrationFormUtils.test.js adapt as unit tests for integraphUtils.ts file?
